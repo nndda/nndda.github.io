@@ -1,0 +1,59 @@
+.skill-info .level:nth-child(1) {
+  background: rgba(255, 255, 255, 0.8376470588); }
+.skill-info .level:nth-child(2) {
+  background: rgba(255, 255, 255, 0.6752941176); }
+.skill-info .level:nth-child(3) {
+  background: rgba(255, 255, 255, 0.5129411765); }
+.skill-info .level:nth-child(4) {
+  background: rgba(255, 255, 255, 0.3505882353); }
+.skill-info .level:nth-child(5) {
+  background: rgba(255, 255, 255, 0.1882352941); }
+
+.skill-lang {
+  color: white; }
+  .skill-lang .label:hover {
+    color: #13161b;
+    background: white; }
+  .skill-lang .label.fade:nth-of-type(5) {
+    color: rgba(255, 255, 255, 0.775); }
+  .skill-lang .label.fade:nth-of-type(5):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.775); }
+  .skill-lang .label.fade:nth-of-type(6) {
+    color: rgba(255, 255, 255, 0.55); }
+  .skill-lang .label.fade:nth-of-type(6):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.55); }
+  .skill-lang .label.fade:nth-of-type(7) {
+    color: rgba(255, 255, 255, 0.325); }
+  .skill-lang .label.fade:nth-of-type(7):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.325); }
+  .skill-lang .label.fade:nth-of-type(8) {
+    color: rgba(255, 255, 255, 0.1); }
+  .skill-lang .label.fade:nth-of-type(8):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.1); }
+
+.skill-tool {
+  color: white; }
+  .skill-tool .label:hover {
+    color: #13161b;
+    background: white; }
+  .skill-tool .label.fade:nth-of-type(5) {
+    color: rgba(255, 255, 255, 0.775); }
+  .skill-tool .label.fade:nth-of-type(5):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.775); }
+  .skill-tool .label.fade:nth-of-type(6) {
+    color: rgba(255, 255, 255, 0.55); }
+  .skill-tool .label.fade:nth-of-type(6):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.55); }
+  .skill-tool .label.fade:nth-of-type(7) {
+    color: rgba(255, 255, 255, 0.325); }
+  .skill-tool .label.fade:nth-of-type(7):hover {
+    color: #13161b;
+    background: rgba(255, 255, 255, 0.325); }
+
+/*# sourceMappingURL=styles-sass.css.map */
